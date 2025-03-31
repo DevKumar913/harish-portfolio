@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/harish-portfolio/static/css/main.9544bc56.css",
-    "main.js": "/harish-portfolio/static/js/main.01e476a9.js",
+    "main.js": "/harish-portfolio/static/js/main.c07a6e06.js",
     "static/js/453.13e07667.chunk.js": "/harish-portfolio/static/js/453.13e07667.chunk.js",
     "index.html": "/harish-portfolio/index.html",
     "main.9544bc56.css.map": "/harish-portfolio/static/css/main.9544bc56.css.map",
-    "main.01e476a9.js.map": "/harish-portfolio/static/js/main.01e476a9.js.map",
+    "main.c07a6e06.js.map": "/harish-portfolio/static/js/main.c07a6e06.js.map",
     "453.13e07667.chunk.js.map": "/harish-portfolio/static/js/453.13e07667.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9544bc56.css",
-    "static/js/main.01e476a9.js"
+    "static/js/main.c07a6e06.js"
   ]
 }
