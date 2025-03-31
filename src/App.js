@@ -16,7 +16,7 @@ function App() {
 
         <div className="text-center mt-4">
           <a
-            href="/Resume.pdf"
+            href="Resume.pdf"
             download
             className="inline-block bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition"
           >
